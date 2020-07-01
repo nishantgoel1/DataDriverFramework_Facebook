@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="512508" started-at="2020-06-10T12:00:45Z" finished-at="2020-06-10T12:09:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="512508" started-at="2020-06-10T12:00:45Z" finished-at="2020-06-10T12:09:18Z">
+      <class name="org.testing.testScripts.TestCaseClass">
+        <test-method status="PASS" signature="creatingConnection()[pri:0, instance:org.testing.testScripts.TestCaseClass@146ba0ac]" name="creatingConnection" is-config="true" duration-ms="4512" started-at="2020-06-10T17:30:45Z" finished-at="2020-06-10T17:30:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingConnection -->
+        <test-method status="PASS" signature="testCase(java.lang.String, java.lang.String)[pri:0, instance:org.testing.testScripts.TestCaseClass@146ba0ac]" name="testCase" duration-ms="39870" started-at="2020-06-10T17:30:50Z" data-provider="testData" finished-at="2020-06-10T17:31:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[User@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="creatingConnection()[pri:0, instance:org.testing.testScripts.TestCaseClass@146ba0ac]" name="creatingConnection" is-config="true" duration-ms="2888" started-at="2020-06-10T17:31:30Z" finished-at="2020-06-10T17:31:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingConnection -->
+        <test-method status="PASS" signature="testCase(java.lang.String, java.lang.String)[pri:0, instance:org.testing.testScripts.TestCaseClass@146ba0ac]" name="testCase" duration-ms="38617" started-at="2020-06-10T17:31:33Z" data-provider="testData" finished-at="2020-06-10T17:32:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[User@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="creatingConnection()[pri:0, instance:org.testing.testScripts.TestCaseClass@146ba0ac]" name="creatingConnection" is-config="true" duration-ms="3478" started-at="2020-06-10T17:32:11Z" finished-at="2020-06-10T17:32:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingConnection -->
+        <test-method status="PASS" signature="testCase(java.lang.String, java.lang.String)[pri:0, instance:org.testing.testScripts.TestCaseClass@146ba0ac]" name="testCase" duration-ms="57557" started-at="2020-06-10T17:32:15Z" data-provider="testData" finished-at="2020-06-10T17:33:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8130578884]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Nishant@12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="creatingConnection()[pri:0, instance:org.testing.testScripts.TestCaseClass@146ba0ac]" name="creatingConnection" is-config="true" duration-ms="3292" started-at="2020-06-10T17:33:12Z" finished-at="2020-06-10T17:33:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingConnection -->
+        <test-method status="PASS" signature="testCase(java.lang.String, java.lang.String)[pri:0, instance:org.testing.testScripts.TestCaseClass@146ba0ac]" name="testCase" duration-ms="40149" started-at="2020-06-10T17:33:16Z" data-provider="testData" finished-at="2020-06-10T17:33:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[User@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="creatingConnection()[pri:0, instance:org.testing.testScripts.TestCaseClass@146ba0ac]" name="creatingConnection" is-config="true" duration-ms="3113" started-at="2020-06-10T17:33:56Z" finished-at="2020-06-10T17:33:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingConnection -->
+        <test-method status="PASS" signature="testCase(java.lang.String, java.lang.String)[pri:0, instance:org.testing.testScripts.TestCaseClass@146ba0ac]" name="testCase" duration-ms="51086" started-at="2020-06-10T17:33:59Z" data-provider="testData" finished-at="2020-06-10T17:34:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[User@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="creatingConnection()[pri:0, instance:org.testing.testScripts.TestCaseClass@146ba0ac]" name="creatingConnection" is-config="true" duration-ms="4075" started-at="2020-06-10T17:34:50Z" finished-at="2020-06-10T17:34:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingConnection -->
+        <test-method status="PASS" signature="testCase(java.lang.String, java.lang.String)[pri:0, instance:org.testing.testScripts.TestCaseClass@146ba0ac]" name="testCase" duration-ms="48432" started-at="2020-06-10T17:34:54Z" data-provider="testData" finished-at="2020-06-10T17:35:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[User@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="creatingConnection()[pri:0, instance:org.testing.testScripts.TestCaseClass@146ba0ac]" name="creatingConnection" is-config="true" duration-ms="2988" started-at="2020-06-10T17:35:42Z" finished-at="2020-06-10T17:35:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingConnection -->
+        <test-method status="PASS" signature="testCase(java.lang.String, java.lang.String)[pri:0, instance:org.testing.testScripts.TestCaseClass@146ba0ac]" name="testCase" duration-ms="49578" started-at="2020-06-10T17:35:45Z" data-provider="testData" finished-at="2020-06-10T17:36:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[User@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="creatingConnection()[pri:0, instance:org.testing.testScripts.TestCaseClass@146ba0ac]" name="creatingConnection" is-config="true" duration-ms="2903" started-at="2020-06-10T17:36:35Z" finished-at="2020-06-10T17:36:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingConnection -->
+        <test-method status="PASS" signature="testCase(java.lang.String, java.lang.String)[pri:0, instance:org.testing.testScripts.TestCaseClass@146ba0ac]" name="testCase" duration-ms="63526" started-at="2020-06-10T17:36:38Z" data-provider="testData" finished-at="2020-06-10T17:37:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8130578884]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Nishant@12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="creatingConnection()[pri:0, instance:org.testing.testScripts.TestCaseClass@146ba0ac]" name="creatingConnection" is-config="true" duration-ms="3947" started-at="2020-06-10T17:37:41Z" finished-at="2020-06-10T17:37:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingConnection -->
+        <test-method status="PASS" signature="testCase(java.lang.String, java.lang.String)[pri:0, instance:org.testing.testScripts.TestCaseClass@146ba0ac]" name="testCase" duration-ms="41990" started-at="2020-06-10T17:37:45Z" data-provider="testData" finished-at="2020-06-10T17:38:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[User@q123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="creatingConnection()[pri:0, instance:org.testing.testScripts.TestCaseClass@146ba0ac]" name="creatingConnection" is-config="true" duration-ms="2769" started-at="2020-06-10T17:38:27Z" finished-at="2020-06-10T17:38:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingConnection -->
+        <test-method status="PASS" signature="testCase(java.lang.String, java.lang.String)[pri:0, instance:org.testing.testScripts.TestCaseClass@146ba0ac]" name="testCase" duration-ms="47476" started-at="2020-06-10T17:38:30Z" data-provider="testData" finished-at="2020-06-10T17:39:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[User123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+      </class> <!-- org.testing.testScripts.TestCaseClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
